@@ -123,4 +123,6 @@ Programming Skills, Design Skills, Webskills, FTP Skills and also other skills s
 
 Outcome
 
+Upon successful execution the invoice market platform will allow debtor finance companies and private investors to bid on invoices that may not have been otherwise accessable. It will also give the seller of the invoice more control over the sale price of their asset. If the the investors dont provide a satisfactory bid, the seller can choose not to sell the invoice. At the moment, sellers are subject to the rates buyers want to pay for an invoice. Creating a competitive online bidding market will allow for more fairness and transparency. 
+
 
