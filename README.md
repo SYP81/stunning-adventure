@@ -95,9 +95,21 @@ Overview: A place for businesses to sell their invoices at a discount in return 
 
 In 2018 over 60 billion dollars worth of invocies were sold to debtor finance companies. Usually a facility is setup with a debtor finance business and the seller can only sell to one buyer. If a platform were provided for sellers to present their invoice on the open market then the buyer will have less power when it comes to dictating the terms. The market will make is more competitve driving down the price for the seller which means they wont need to sell on terms decided by the buyer.
 
-Features:
+Features: 
 
-Software/Hardware
+A platform to submit invoices
+
+
+
+The ability to bid on each invoice
+
+
+
+
+
+Software/Hardware:
+
+
 
 Skills Required
 
