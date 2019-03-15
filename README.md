@@ -97,20 +97,30 @@ In 2018 over 60 billion dollars worth of invocies were sold to debtor finance co
 
 Features: 
 
-A platform to submit invoices
+The features for this platform are as follows.
+
+Once a profile is created we are going to provide users with a bidder dashbaord. This is where each user will be able to monitor each bid on the item they would like to participate in. 
 
 
+Each incvoice up for auction will be subject to a start and end time block. This will give bidders a limited amount of time to bid on an item. 
 
-The ability to bid on each invoice
 
-
+The website will also provide images of the item they are bidding on. Other features of the website will include Starting Bid, buy it now price, reserve price, item value. 
 
 
 
 Software/Hardware:
 
+This is a small project so we are going to use software that is a better fit for a project this size. For this website we will be using WordPress software with the auctions plugin, this will give us the framework to allow investors to bid for the asset. We are going to use a Linux hosting account for memory because it is one of the most reliable operating systems for webservers and has more features than its major competitor Windows. For the webhosting software we will be using Bluehost simply because it has many of the same features as other popular hosting software but has a better reputation when it comes to security.
+
 
 
 Skills Required
 
+The following skills are going to be required to build a website. 
+
+Programming Skills, Design Skills, Webskills, FTP Skills and also other skills such as time management, problem solving and team work skills. Both hard and soft skills are required to build a website.
+
 Outcome
+
+
